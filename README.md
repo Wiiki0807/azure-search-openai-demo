@@ -46,6 +46,7 @@ This template, the application code and configuration it contains, has been buil
 - [Clean up](#clean-up)
 - [Guidance](#guidance)
   - [Resources](#resources)
+- [Technical Documentation (中文/English)](#technical-documentation)
 
 ![Chat screen](docs/images/chatscreen.png)
 
@@ -295,6 +296,23 @@ join the Azure AI Foundry Developer Community:
 
 [![Azure AI Foundry Discord](https://img.shields.io/badge/Discord-Azure_AI_Foundry_Community_Discord-blue?style=for-the-badge&logo=discord&color=5865f2&logoColor=fff)](https://aka.ms/foundry/discord)
 [![Azure AI Foundry Developer Forum](https://img.shields.io/badge/GitHub-Azure_AI_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=000000&logoColor=fff)](https://aka.ms/foundry/forum)
+
+## Technical Documentation
+
+For a comprehensive technical overview of this repository including architecture, components, setup, deployment, and maintenance procedures, please see:
+
+📖 **[TECHNICAL_DOCUMENTATION.md](TECHNICAL_DOCUMENTATION.md)** (中文/English bilingual)
+
+This document covers:
+- Complete system architecture and data flow
+- Technology stack details
+- Directory structure explanation
+- Core components (RAG approaches, frontend, backend, infrastructure)
+- Development environment setup
+- Deployment guide and configuration options
+- Data processing pipeline
+- API endpoints and testing strategy
+- Maintenance, optimization, and troubleshooting
 
 ### Note
 
